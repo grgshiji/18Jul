@@ -27,6 +27,9 @@
     },
     "block1": {
       "directory": "block1"
+    },
+    "block3": {
+      "directory": "block3"
     }
   },
   "blockId": "bcHFSF3soyxNlZOl44RIN",
