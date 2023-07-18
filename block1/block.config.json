@@ -1,0 +1,18 @@
+{
+  "blockId": "E3zSsw-0kUBqebiR4UsDX",
+  "name": "block1",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_block1"
+  },
+  "parentBlockIDs": [
+    "bcHFSF3soyxNlZOl44RIN"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true
+}
